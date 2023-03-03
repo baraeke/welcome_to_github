@@ -1,2 +1,2 @@
 # Github
-Trying to get familiarize with the system
+Trying to get familiarize with Github
